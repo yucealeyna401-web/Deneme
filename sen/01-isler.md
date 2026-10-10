@@ -22,7 +22,7 @@ Konu: Çocuk sporcuların psikolojik esenliği. Aşırı antrenman, performans b
 - Koruyucu etmenler (sporcuyu tükenmişlik ve bırakmaya karşı koruyan etkenler) üzerine bilimsel makale ve çalışmalardan bilgi topla
 - Toplanan bilgileri tek bir Türkçe literatür derlemesinde birleştir
 
-Kaynak şartları: her konuda en az 5 çalışma 2022-2026, en az 5 çalışma 2021 öncesi. Güncel çalışmalar öncelikli. Derleme makaleleri yerine özgün araştırma makaleleri öncelikli. Veri tabanı önceliği: PubMed, SPORTDiscus, Scopus, Google Akademik, Web of Science, YÖK Tez.
+Kaynak şartları: her konuda en az 5 çalışma 2022-2026, en az 5 çalışma 2021 ve öncesi (2021 dahil). Güncel çalışmalar öncelikli. Derleme makaleleri yerine özgün araştırma makaleleri öncelikli. Veri tabanı önceliği: PubMed, SPORTDiscus, Scopus, Google Akademik, Web of Science, YÖK Tez.
 ```
 
 ## Bu koşuda dokunulmayacaklar (opsiyonel)
