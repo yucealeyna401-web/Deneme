@@ -13,16 +13,18 @@ Her satır bir iş. Ne kadar somut yazarsan plan o kadar doğru çıkar.
 Sistem belirsiz bir madde görürse sana sorar, tahmin etmez.
 
 ```
-Konu: Çocuk sporcuların psikolojik esenliği. Aşırı antrenman, performans baskısı, tükenmişlik ve sporu bırakma.
-İnceleme odağı: erken uzmanlaşma, ebeveyn ve antrenör baskısı, tükenmişlik, spordan ayrılma ve koruyucu etmenler.
+Konu: Bilimsel Araştırma Yöntemleri ve Araştırma Etiği dersi sunumu. "Meta-analiz, sistematik derleme ve derleme".
+Dinleyici: yüksek lisans öğrencileri ve dersin hocası. Konuyu hiç bilmeyen öğrenciler de var. Alan: beden eğitimi ve spor.
+Süre: yaklaşık 20 dakika. Son 5 dakika tartışma.
 
-- Erken uzmanlaşma ve aşırı antrenman üzerine bilimsel makale ve çalışmalardan bilgi topla
-- Ebeveyn ve antrenör baskısı (performans baskısı) üzerine bilimsel makale ve çalışmalardan bilgi topla
-- Tükenmişlik ve spordan ayrılma (bırakma) üzerine bilimsel makale ve çalışmalardan bilgi topla
-- Koruyucu etmenler (sporcuyu tükenmişlik ve bırakmaya karşı koruyan etkenler) üzerine bilimsel makale ve çalışmalardan bilgi topla
-- Toplanan bilgileri tek bir Türkçe literatür derlemesinde birleştir
+- Derleme türlerinin (geleneksel derleme, sistematik derleme, meta-analiz) tanımları, farkları, kanıt hiyerarşisi ve etik boyutu üzerine bilimsel kaynaklardan bilgi topla
+- Sistematik derlemenin adımları (soru, protokol, arama, tarama, PRISMA, yanlılık riski, kanıt kalitesi) üzerine bilimsel kaynaklardan bilgi topla
+- Meta-analizin temel istatistiği (etki büyüklüğü, modeller, heterojenlik, orman ve huni grafiği, yayın yanlılığı) üzerine bilimsel kaynaklardan bilgi topla
+- Beden eğitimi ve spor alanından örnek sistematik derleme ve meta-analizler bul
+- Toplananları slayt slayt sunum içeriğine, konuşmacı notlarına, tartışma sorularına ve kaynakçaya dönüştür
+- Sunum dosyasını üret
 
-Kaynak şartları: her konuda en az 5 çalışma 2022-2026, en az 5 çalışma 2021 ve öncesi (2021 dahil). Güncel çalışmalar öncelikli. Derleme makaleleri yerine özgün araştırma makaleleri öncelikli. Veri tabanı önceliği: PubMed, SPORTDiscus, Scopus, Google Akademik, Web of Science, YÖK Tez.
+Kaynak şartları: bilimsel verilere dayanmalı. Veri tabanları: PubMed, SPORTDiscus, Google Akademik, Web of Science, YÖK Tez.
 ```
 
 ## Bu koşuda dokunulmayacaklar (opsiyonel)
