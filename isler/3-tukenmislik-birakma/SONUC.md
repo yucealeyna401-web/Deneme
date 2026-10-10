@@ -99,55 +99,55 @@
 
 ## 5. Bağlam kaynakları (kotaya sayılmaz)
 
-1. Crane, J., & Temple, V. (2015). A systematic review of dropout from organized sport among children and youth. *European Physical Education Review, 21*(1), 114-131. Sistematik derleme; 557 kayıttan 43 çalışma alındı; bireysel içi ve bireyler arası kısıtlar, yapısal kısıtlardan daha sık bırakmayla ilişkili bulundu. Not: yazar adları özette değil, başka makalelerin kaynakçalarında doğrulandı; DOI doğrulanamadı.
+1. Crane, & Temple (2015). A systematic review of dropout from organized sport among children and youth. *European Physical Education Review, 21*(1), 114-131. Sistematik derleme; 557 kayıttan 43 çalışma alındı; bireysel içi ve bireyler arası kısıtlar, yapısal kısıtlardan daha sık bırakmayla ilişkili bulundu. Not: yazar adları özette değil, başka makalelerin kaynakçalarında doğrulandı; DOI doğrulanamadı.
 
 ## 6. Kaynakça (APA 7)
 
 Back, J., ve ark. (2022). Psychosocial predictors of drop-out from organised sport: A prospective study in adolescent soccer. *International Journal of Environmental Research and Public Health, 19*(24), 16585. https://doi.org/10.3390/ijerph192416585
 
-Bergin, J., & Lagestad, P. (2023). Dropping out or continuing playing: A case study of adolescent's motives for participation in football. *Sports, 11*(7), 128. https://doi.org/10.3390/sports11070128
+Bergin, J., & Lagestad (2023). Dropping out or continuing playing: A case study of adolescent's motives for participation in football. *Sports, 11*(7), 128. https://doi.org/10.3390/sports11070128
 
-Crane, J., & Temple, V. (2015). A systematic review of dropout from organized sport among children and youth. *European Physical Education Review, 21*(1), 114-131.
+Crane, & Temple (2015). A systematic review of dropout from organized sport among children and youth. *European Physical Education Review, 21*(1), 114-131.
 
 Doğan, G. (2025). *Otokratik antrenör liderlik tarzı ile tükenmişlik arasındaki ilişki: Reddedilme duyarlılığı, benlik değeri ve algılanan sosyal desteğin aracı rolü* [Yüksek lisans tezi, Hacettepe Üniversitesi]. https://openaccess.hacettepe.edu.tr/items/3b3bc8a2-36c6-4cf6-9741-68e1e3ced5b0
 
-Fraser-Thomas, J., Côté, J., & Deakin, J. (2008). Understanding dropout and prolonged engagement in adolescent competitive sport. *Psychology of Sport and Exercise, 9*(5), 645-662. https://doi.org/10.1016/j.psychsport.2007.08.003
+Fraser-Thomas, Côté, & Deakin (2008). Understanding dropout and prolonged engagement in adolescent competitive sport. *Psychology of Sport and Exercise, 9*(5), 645-662. https://doi.org/10.1016/j.psychsport.2007.08.003
 
-Gerber, M., Best, S., Meerstetter, F., Walter, M., Ludyga, S., Brand, S., Bianchi, R., Madigan, D. J., Isoard-Gautheur, S., & Gustafsson, H. (2018). Effects of stress and mental toughness on burnout and depressive symptoms: A prospective study with young elite athletes. *Journal of Science and Medicine in Sport, 21*(12), 1200-1205. (Not: yazar listesinin yalnız "Gerber, Best" kısmı ve Walter adı depo kaydında görüldü; tam liste doğrulanmalı.)
+Gerber, M., Best, S., ve ark. (2018). Effects of stress and mental toughness on burnout and depressive symptoms: A prospective study with young elite athletes. *Journal of Science and Medicine in Sport, 21*(12), 1200-1205. (Not: tam yazar listesi bu oturumda doğrulanamadı.)
 
 Gerber, M., Lang, C., Brand, S., Gygax, B., Ludyga, S., Müller, C., Ramseyer, S., & Jakowski, S. (2023). Perceived recovery and stress states as predictors of depressive, burnout, and insomnia symptoms among adolescent elite athletes. *Sports Psychiatry, 2*(1), 13-22. https://doi.org/10.1024/2674-0052/a000017
 
 Güler, H. A., & Kaya, İ. (2023). The relationship of burnout with perceived expressed emotion, anxiety, and depression levels in professional adolescent volleyball players. *Turkish Journal of Sports Medicine, 58*(1), 26-30. https://doi.org/10.47447/tjsm.0699
 
-Gustafsson, H., Sagar, S. S., & Stenling, A. (2017). Fear of failure, psychological stress, and burnout among adolescent athletes competing in high level sport. *Scandinavian Journal of Medicine & Science in Sports, 27*(12), 2091-2102. https://pubmed.ncbi.nlm.nih.gov/27882607/
+Gustafsson, H., Sagar, & Stenling (2017). Fear of failure, psychological stress, and burnout among adolescent athletes competing in high level sport. *Scandinavian Journal of Medicine & Science in Sports, 27*(12), 2091-2102. https://pubmed.ncbi.nlm.nih.gov/27882607/
 
-Isoard-Gautheur, S., Guillet-Descas, E., & Lemyre, P.-N. (2012). A prospective study of the influence of perceived coaching style on burnout propensity in high level young athletes: Using a self-determination theory perspective. *The Sport Psychologist, 26*(2), 282-298.
+Isoard-Gautheur, S., Guillet-Descas, E., & Lemyre, N. (2012). A prospective study of the influence of perceived coaching style on burnout propensity in high level young athletes: Using a self-determination theory perspective. *The Sport Psychologist, 26*(2), 282-298.
 
 Koçak, F., Sivri, S., Raedeke, T. D., Koçak, Ç. V., & Özbek, O. (2022). Psychometric properties of the Turkish version of the athlete burnout questionnaire. *Apuntes Universitarios, 12*(2), 215-232. https://doi.org/10.17162/au.v12i2.1047
 
-Kovács, K., Pignitzky, C., Bartha, A., & Takács, J. (2025). From the European Youth Olympics Festival to professional sport. The level of athlete dropout: A longitudinal cohort study. *Frontiers in Psychology*. https://doi.org/10.3389/fpsyg.2025.1572597
+Kovács, Pignitzky, Bartha, & Takács (2025). From the European Youth Olympics Festival to professional sport. The level of athlete dropout: A longitudinal cohort study. *Frontiers in Psychology*. https://doi.org/10.3389/fpsyg.2025.1572597
 
 Kuokkanen, J., Saarinen, M., Phipps, D. J., Korhonen, J., & Romar, J.-E. (2024). Unveiling the longitudinal reciprocal relationship between burnout and engagement among adolescent athletes in sport schools. *Journal of Adolescence*. https://doi.org/10.1002/jad.12426
 
-Larson, H. K., Young, B. W., McHugh, T.-L. F., & Rodgers, W. M. (2020). The relative importance of training volume and coach autonomy support for preventing youth swimming attrition. *Current Issues in Sport Science, 5*. https://doi.org/10.36950/2020ciss007
+Larson, H., Young, B., McHugh, T.-L., & Rodgers, W. (2020). The relative importance of training volume and coach autonomy support for preventing youth swimming attrition. *Current Issues in Sport Science, 5*. https://doi.org/10.36950/2020ciss007
 
 Martinent, G., Cece, V., & Guillet-Descas, E. (2022). The impact of stress, recovery and coping on burnout symptoms of young elite table-tennis players: A prospective multilevel study. *Frontiers in Psychology, 13*, 1007697. https://doi.org/10.3389/fpsyg.2022.1007697
 
-Morano, M., Robazza, C., Ruiz, M. C., & Bortoli, L. (2022). Sport participation in early and middle adolescence: The interplay between self-perception and psychobiosocial experiences in predicting burnout symptoms. *Frontiers in Psychology, 13*, 855179. https://doi.org/10.3389/fpsyg.2022.855179
+Morano, Robazza, Ruiz, & Bortoli (2022). Sport participation in early and middle adolescence: The interplay between self-perception and psychobiosocial experiences in predicting burnout symptoms. *Frontiers in Psychology, 13*, 855179. https://doi.org/10.3389/fpsyg.2022.855179
 
 Moulds, K., ve ark. (2023). Coach-created motivational climate ratings differentiate between dropout and continuation in Australian youth swimming. *International Journal of Sports Science & Coaching, 18*(5), 1395-1404. https://doi.org/10.1177/17479541231174806
 
 Pisaniello, A., Figus, A., Digennaro, S., & Spulber, D. (2024). Determining factors of sports dropout of young scholars: A cross-sectional analysis in the 8-13 year age group. *Frontiers in Sports and Active Living, 6*. https://doi.org/10.3389/fspor.2024.1330346
 
-Sarrazin, P., Vallerand, R. J., Guillet, E., Pelletier, L. G., & Cury, F. (2002). Motivation and dropout in female handballers: A 21-month prospective study. *European Journal of Social Psychology*. https://doi.org/10.1002/ejsp.98
+Sarrazin, Vallerand, Guillet, Pelletier, & Cury (2002). Motivation and dropout in female handballers: A 21-month prospective study. *European Journal of Social Psychology*. https://doi.org/10.1002/ejsp.98
 
-Schorb, A., Aichhorn, W., Schiepek, G., & Aichhorn, W. (2023). Burnout in adolescent elite athletes: A pilot study on an Austrian student sample. *Sports Psychiatry, 2*(2), 51-56. https://doi.org/10.1024/2674-0052/a000046
+Schorb, Aichhorn, Schiepek, & Aichhorn (2023). Burnout in adolescent elite athletes: A pilot study on an Austrian student sample. *Sports Psychiatry, 2*(2), 51-56. https://doi.org/10.1024/2674-0052/a000046
 
 Sorkkila, M., Ryba, T. V., Selänne, H., & Aunola, K. (2020). Development of school and sport burnout in adolescent student-athletes: A longitudinal mixed-methods study. *Journal of Research on Adolescence, 30*(S1), 115-133. https://doi.org/10.1111/jora.12453
 
 Sorkkila, M., Tolvanen, A., Aunola, K., & Ryba, T. V. (2019). The role of resilience in student-athletes' sport and school burnout and dropout: A longitudinal person-oriented study. *Scandinavian Journal of Medicine and Science in Sports, 29*(7), 1059-1067. https://doi.org/10.1111/sms.13422
 
-Not: Baş harfler (initials) ve "ve ark." ile kısaltılan yazar listeleri (Back, Moulds) arama sonuçlarında tam görülmedi; derleme aşamasında DOI üzerinden tamamlanmalı. Schorb ve ark. kaydında iki "Aichhorn" yazar adı arama sonucunda böyle geçti; ilk adları doğrulanmadı.
+Not: Baş harfi (initial) bu oturumda doğrulanamayan yazarlar yalnız soyadıyla yazıldı; derleme aşamasında DOI üzerinden tamamlanmalı. Ayrıca "ve ark." ile kısaltılan yazar listeleri (Back, Moulds) arama sonuçlarında tam görülmedi; derleme aşamasında DOI üzerinden tamamlanmalı. Schorb ve ark. kaydında iki "Aichhorn" yazar adı arama sonucunda böyle geçti; ilk adları doğrulanmadı.
 
 ## 7. Doğrulanamayanlar ve sınırlar
 
@@ -166,4 +166,4 @@ Not: Baş harfler (initials) ve "ve ark." ile kısaltılan yazar listeleri (Back
 ## 8. Zaman
 
 - Başlangıç (UTC): 17:51:32
-- Bitiş (UTC): BITIS_SAATI
+- Bitiş (UTC): 17:57:53
