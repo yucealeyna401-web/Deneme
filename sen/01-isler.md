@@ -13,9 +13,14 @@ Her satır bir iş. Ne kadar somut yazarsan plan o kadar doğru çıkar.
 Sistem belirsiz bir madde görürse sana sorar, tahmin etmez.
 
 ```
--
--
--
+Konu: Çocuk sporcuların psikolojik esenliği. Aşırı antrenman, performans baskısı, tükenmişlik ve sporu bırakma.
+İnceleme odağı: erken uzmanlaşma, ebeveyn ve antrenör baskısı, tükenmişlik, spordan ayrılma ve koruyucu etmenler.
+
+- Erken uzmanlaşma ve aşırı antrenman üzerine bilimsel makale ve çalışmalardan bilgi topla
+- Ebeveyn ve antrenör baskısı (performans baskısı) üzerine bilimsel makale ve çalışmalardan bilgi topla
+- Tükenmişlik ve spordan ayrılma (bırakma) üzerine bilimsel makale ve çalışmalardan bilgi topla
+- Koruyucu etmenler (sporcuyu tükenmişlik ve bırakmaya karşı koruyan etkenler) üzerine bilimsel makale ve çalışmalardan bilgi topla
+- Toplanan bilgileri tek bir Türkçe literatür derlemesinde birleştir
 ```
 
 ## Bu koşuda dokunulmayacaklar (opsiyonel)
