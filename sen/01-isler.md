@@ -50,4 +50,5 @@ Biçim: `TARİH · ders`
 
 ```
 2026-07-29 · Üç okuma işi paralel koştu, çakışma çıkmadı. Genel kazanç 1,63 kat, dalga 1 içinde 2,2 kat. Ders: kazanç en uzun işin süresine bağlı, iş sayısına değil. Tek işlik dalga eklemek genel oranı düşürüyor; mümkünse dalga 2'ye de iş toplamalı.
+2026-10-10 · Dört web araştırması paralel koştu, çakışma yok. Dalga 1 içinde 3,7 kat, genel 2,4 kat (tek işlik sentez dalgası oranı düşürdü). Ders: bu ortamda PubMed API, Crossref, doi.org ve YÖK Tez ağ engelli; kaynak doğrulama yalnız web aramasıyla yapılabiliyor, planda bunu baştan yaz. Temalar örtüşünce aynı makale birden çok çalışana düşüyor ve künyeler çelişiyor; sentez işine çelişki denetimi görevi vermek işe yaradı.
 ```
