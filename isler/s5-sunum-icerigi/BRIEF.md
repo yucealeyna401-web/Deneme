@@ -51,6 +51,8 @@ Süreleri topla: anlatım slaytlarının toplamı 14 ile 16 dk, tartışma slayt
 
 - **Yalnız dalga 1'de doğrulanmış kaynakları kullan.** Yeni kaynak ekleme, hafızadan künye yazma. Bir bilgi hiçbir SONUC.md'de kaynaklı değilse slayta koyma.
 - **Çelişki denetimi:** aynı kaynak birden çok SONUC.md'de farklı künyeyle (yıl, cilt, sayfa, DOI, yazar sırası) geçiyorsa `SONUC.md` dosyanda "Çelişkiler" başlığında listele, hangisini neden seçtiğini yaz. Çözemediğini konuşmacı notuna "sunumdan önce kontrol edin" diye ekle.
+- **Eksik yazar listeleri:** dalga 1'de bazı kaynaklar için yalnız ilk yazar(lar) ve DOI doğrulanabildi (ör. Page 2021, Ardern 2022, Sterne 2011, 2016 ve 2019, Shea 2017, Moher 2015, Balshem 2011, Booth 2012). Bunlar yeni kaynak değil; APA 7 tam künyesini tamamlamak için WebSearch ile (ToolSearch: `select:WebSearch`) yazar listesini doğrulayabilirsin. Doğrulayamadığını kaynakçada "[yazar listesi kontrol edilmeli]" diye işaretle ve konuşmacı notuna yaz. Uydurma.
+- Dalga 1'in "doğrulanamadı, slayta yazılmasın" dediği bilgiler (ör. huni testleri için "en az 10 çalışma" eşiği) slayta girmez.
 - Kurgu örnekler (PICO örnek sorusu, orman grafiği verisi) slaytta açıkça "örnek" / "eğitim amaçlı kurgu veri" diye işaretli olmalı.
 - Sayısal bulgular (etki büyüklüğü, %, n) yalnız kaynak SONUC.md'de yazdığı gibi.
 - Dürüstlük notu: dalga 1 çalışanları SPORTDiscus, Web of Science ve YÖK Tez'e doğrudan erişemediyse, ilgili konuşmacı notuna sunana "bu tabanları kendi üniversite erişiminizle kontrol edin; taramadığınız tabanı taradım demeyin" uyarısını ekle.
