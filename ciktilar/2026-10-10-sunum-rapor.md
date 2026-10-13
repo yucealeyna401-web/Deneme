@@ -73,5 +73,5 @@ Dalga 1 ve 2 gerçek toplam ~15 dk; sırayla koşsaydı ~27 dk (4 iş toplamı ~
 ## Bölüm F · Filo defteri girdisi
 
 ```
-2026-10-13 · Dört araştırma paralel 5 dk, çakışma yok, dalga 1 içinde 3,6 kat. Ders 1: uzun tasarım işi (25 slayt) tek çalışanda API kullanım sınırına takıldı; büyük üretim işlerinde çalışan önce betiği yazıp HEMEN çalıştırsın ve ara çıktıyı diske bıraksın, böylece kesintide iş kaybolmaz. Ders 2: sentez işi kaynak üst sınırı (30) yüzünden Türkçe kaynakların hepsini dışarıda bıraktı; Türkçe kaynak isteniyorsa sentez BRIEF'ine "en az N Türkçe kaynak sunuma girsin" diye yaz.
+2026-10-13 · Dört araştırma paralel 5 dk, çakışma yok, dalga 1 içinde 3,6 kat. Ders 1: uzun tasarım işi (25 slayt) tek çalışanda API kullanım sınırına takıldı; büyük üretim işlerinde çalışan önce betiği yazıp HEMEN çalıştırsın ve ara çıktıyı diske bıraksın, böylece kesintide iş kaybolmaz. Ders 2: sentez işi kaynak üst sınırı (30) yüzünden Türkçe yöntem kaynaklarının üçünü de dışarıda bıraktı (Türkiye kaynaklı spor örnekleri girdi); Türkçe kaynak isteniyorsa sentez BRIEF'ine "en az N Türkçe kaynak sunuma girsin" diye yaz.
 ```
