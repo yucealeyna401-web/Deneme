@@ -13,18 +13,14 @@ Her satır bir iş. Ne kadar somut yazarsan plan o kadar doğru çıkar.
 Sistem belirsiz bir madde görürse sana sorar, tahmin etmez.
 
 ```
-Konu: Bilimsel Araştırma Yöntemleri ve Araştırma Etiği dersi sunumu. "Meta-analiz, sistematik derleme ve derleme".
-Dinleyici: yüksek lisans öğrencileri ve dersin hocası. Konuyu hiç bilmeyen öğrenciler de var. Alan: beden eğitimi ve spor.
-Süre: yaklaşık 20 dakika. Son 5 dakika tartışma.
+Konu: Beden eğitimi ve spor yüksek lisans dersi ödevi. Alanla ilişkili, nitelikli 10 ulusal ve 10 uluslararası dergi seç; bu dergilerde son 5 yılda nasıl çalışmalar yapıldığını analiz et.
 
-- Derleme türlerinin (geleneksel derleme, sistematik derleme, meta-analiz) tanımları, farkları, kanıt hiyerarşisi ve etik boyutu üzerine bilimsel kaynaklardan bilgi topla
-- Sistematik derlemenin adımları (soru, protokol, arama, tarama, PRISMA, yanlılık riski, kanıt kalitesi) üzerine bilimsel kaynaklardan bilgi topla
-- Meta-analizin temel istatistiği (etki büyüklüğü, modeller, heterojenlik, orman ve huni grafiği, yayın yanlılığı) üzerine bilimsel kaynaklardan bilgi topla
-- Beden eğitimi ve spor alanından örnek sistematik derleme ve meta-analizler bul
-- Toplananları slayt slayt sunum içeriğine, konuşmacı notlarına, tartışma sorularına ve kaynakçaya dönüştür
-- Sunum dosyasını üret
+- Beden eğitimi ve spor alanında nitelikli 10 ulusal dergi seç, seçim gerekçesini yaz
+- Beden eğitimi ve spor alanında nitelikli 10 uluslararası dergi seç, seçim gerekçesini yaz
+- Her dergide son 5 yılda yayımlanan çalışmaları incele: konu, yöntem, desen, örneklem, veri toplama aracı, eğilim
+- Ulusal ve uluslararası dergileri karşılaştıran tek bir analiz raporu çıkar
 
-Kaynak şartları: bilimsel verilere dayanmalı. Veri tabanları: PubMed, SPORTDiscus, Google Akademik, Web of Science, YÖK Tez.
+Kaynak şartları: bütün akademik kaynaklar (TR Dizin, DergiPark, Web of Science/JCR, Scopus/SJR, PubMed, SPORTDiscus, Google Akademik, dergilerin kendi siteleri, dergiler üzerine yapılmış içerik analizi/bibliyometri çalışmaları).
 ```
 
 ## Bu koşuda dokunulmayacaklar (opsiyonel)
