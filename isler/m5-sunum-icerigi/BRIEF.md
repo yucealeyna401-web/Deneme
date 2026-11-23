@@ -52,3 +52,15 @@ Ne yapıldı · sayılar (slayt, süre toplamı, kelime sayıları, kaynak sayı
 
 ## Bitince döndür
 Slayt sayısı, toplam süre, kaynak sayısı (Türkçe), açık kalan sorunlar.
+
+## Ana oturumdan ek notlar (dalga 1 sonrası, 2026-11-23)
+
+- Cochrane El Kitabı metni dalga 1'de okunamadı (cochrane.org engelliydi; ana oturum www.cochrane.org iznini ekledi, m6 güncel metinden doğrulayacak). Tanım cümlesini Page ve ark. (2021) ya da m2'nin birebir aktardığı bölüm 1 tanımından al; El Kitabı'na yalnız künye düzeyinde, tartışmasız noktalarda atıf yap.
+- "Funnel testi için en az 10 çalışma" ifadesi birincil kaynaktan doğrulanmadı: ya hiç yazma ya da "kılavuzlar genellikle en az 10 çalışma önerir (Debray ve ark., 2018)" biçiminde yaz.
+- Hopkins 2009 eşiklerini sayı olarak yazma.
+- PROSPERO: güncel resmi sayfa spor performansı derlemelerini ve scoping derlemeleri kaydetmiyor (m1). Spor dinleyicisi için önemli; alternatif OSF.
+- Etik kurul: "çoğu zaman gerekmez, ama kurum ve dergi kuralı belirler; IPD ve yayımlanmamış veri farklı" dili (m1, Dal-Ré ve ark., 2026).
+- Slayt 11 için m4 önerisi: FIFA 11+ üçlüsü (Bizzini ve Dvorak, 2015 · Barengo ve ark., 2014 · Sadigursky ve ark., 2017). Türkçe örnek (Nalbant ve Kaya, 2025) notta ya da slaytta anılabilir; "TR Dizin'de dizinli" deme, "DergiPark'ta yayımlanmış hakemli makale" de.
+- Gerçek makalelerdeki yöntem kusurları (model seçimini I²'ye göre yapmak, 6 çalışmayla funnel yorumu) suçlayıcı olmayan dille "eleştirel okuma" örneği olarak kullanılabilir.
+- Çınar 2021 ve Karaçam 2013 eski PRISMA/El Kitabı sürümlerine dayanıyor: yalnız tartışmasız noktalarda kullan.
+- PICOS'taki S = study design (Liberati ve ark., 2009).
