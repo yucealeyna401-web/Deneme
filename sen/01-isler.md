@@ -13,14 +13,15 @@ Her satır bir iş. Ne kadar somut yazarsan plan o kadar doğru çıkar.
 Sistem belirsiz bir madde görürse sana sorar, tahmin etmez.
 
 ```
-Konu: Beden eğitimi ve spor yüksek lisans dersi ödevi. Alanla ilişkili, nitelikli 10 ulusal ve 10 uluslararası dergi seç; bu dergilerde son 5 yılda nasıl çalışmalar yapıldığını analiz et.
+Konu: Bilimsel Araştırma ve Etik dersi (yüksek lisans) için en fazla 15 slayt ve 15 dakikalık akademik sunum: Derleme, Sistematik Derleme, Meta-Analiz. Tam görev metni: sen/kaynak/2026-11-23-sunum-gorevi.md
 
-- Beden eğitimi ve spor alanında nitelikli 10 ulusal dergi seç, seçim gerekçesini yaz
-- Beden eğitimi ve spor alanında nitelikli 10 uluslararası dergi seç, seçim gerekçesini yaz
-- Her dergide son 5 yılda yayımlanan çalışmaları incele: konu, yöntem, desen, örneklem, veri toplama aracı, eğilim
-- Ulusal ve uluslararası dergileri karşılaştıran tek bir analiz raporu çıkar
-
-Kaynak şartları: bütün akademik kaynaklar (TR Dizin, DergiPark, Web of Science/JCR, Scopus/SJR, PubMed, SPORTDiscus, Google Akademik, dergilerin kendi siteleri, dergiler üzerine yapılmış içerik analizi/bibliyometri çalışmaları).
+- Derleme (narrative review) ve diğer derleme türleri (scoping, integrative, umbrella) için kavram ve doğrulanmış kaynak topla
+- Sistematik derleme sürecini (PICO/PICOS, veri tabanları, Boolean, kriterler, eleme, PRISMA 2020, veri çıkarma, sentez, yanlılık riski) doğrulanmış kaynakla çıkar
+- Meta-analizin istatistiğini (etki büyüklüğü, d ve g, sabit/rastgele etkiler, heterojenlik ve I², forest ve funnel plot, yayın yanlılığı) doğrulanmış kaynakla çıkar
+- Etik başlıkları (intihal, seçici raporlama, yayın ve araştırmacı yanlılığı, çıkar çatışması, protokol, PROSPERO, etik kurul izninin koşullu durumu) doğrulanmış kaynakla çıkar
+- Beden eğitimi ve spordan her yöntem için 1 ile 2 gerçek makale bul, yöntem bölümüne bakarak sınıflandır
+- 15 slaytlık sunum içeriğini yaz: her slayt için başlık, metin, görsel önerisi, metin içi atıf, sunucu notu, süre; karşılaştırma tablosu; 3 bilgi sorusu ve cevabı; APA 7 kaynakça
+- Bütün atıfları, DOI'leri, bilimsel ifadeleri ve süreyi bağımsız olarak denetle
 ```
 
 ## Bu koşuda dokunulmayacaklar (opsiyonel)
