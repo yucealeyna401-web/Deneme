@@ -28,3 +28,9 @@ python-pptx 1.0.2, matplotlib, LibreOffice (`soffice --headless --convert-to pdf
 
 ## Bitince döndür
 Dosya yolu, slayt sayısı, not alanı durumu, görsel kontrol sonucu, bilinen sorunlar.
+
+## Ana oturumdan ek not (dalga 3 sonrası)
+
+- PRISMA 2020 resmi Word şablonu bu ortamdan indirilemedi. Akış şemasını slaytlar-son.md'deki kutu metinleriyle, PRISMA 2020'nin üç bandı (Identification · Screening · Included) ve iki sütun (kayıtlar / dışlananlar) düzeninde çiz; her kutuda Türkçe metin, küçük puntoyla İngilizce özgün terim. Şemanın altına "Page ve ark. (2021) akış şemasından uyarlanmıştır" yaz.
+- Kaynak sayısı 26 (m6, Deeks ve ark., 2026 eklendi); kaynakça slaytına hepsi iki sütunda sığmalı.
+- Konuşma metnindeki parantez içi atıflar sesli okunmaz: not alanına bu uyarıyı her slaytın notunun başına kısa bir satır olarak değil, yalnız slayt 1 notuna bir kez yaz.

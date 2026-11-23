@@ -7,7 +7,7 @@
 
 ## Süre tablosu
 
-(Kelime sayıları dosyanın sonunda betikle sayıldı; tablo en son güncellendi.)
+(Kelime sayıları m6 tarafından son metin üzerinde betikle yeniden sayıldı.)
 
 | # | Slayt | Planlanan süre | Konuşma metni, toplam kelime | Parantez içi atıf kelimesi (okunmaz) | Sesli okunan kelime | 130 kelime/dk ile süre | Fark |
 |---|---|---|---|---|---|---|---|
@@ -15,22 +15,22 @@
 | 2 | Amaç ve üç yöntemin yeri | 0:40 | 86 | 0 | 86 | 0:40 | 0 sn |
 | 3 | Derleme | 1:15 | 169 | 8 | 161 | 1:14 | -1 sn |
 | 4 | Sistematik derleme: tanım ve özellikler | 1:05 | 161 | 20 | 141 | 1:05 | 0 sn |
-| 5 | Süreç ve PRISMA 2020 | 1:10 | 161 | 12 | 149 | 1:09 | -1 sn |
-| 6 | Arama, seçim, yanlılık riski | 1:30 | 215 | 20 | 195 | 1:30 | 0 sn |
+| 5 | Süreç ve PRISMA 2020 | 1:10 | 163 | 12 | 151 | 1:10 | 0 sn |
+| 6 | Arama, seçim, yanlılık riski | 1:30 | 219 | 24 | 195 | 1:30 | 0 sn |
 | 7 | Meta-analiz: tanım ve ilişki | 0:55 | 132 | 10 | 122 | 0:56 | +1 sn |
-| 8 | Temel istatistiksel kavramlar | 1:35 | 218 | 14 | 204 | 1:34 | -1 sn |
-| 9 | Forest plot, funnel plot, yorum | 1:15 | 178 | 16 | 162 | 1:15 | 0 sn |
-| 10 | Üç yöntemin karşılaştırması | 1:25 | 203 | 16 | 187 | 1:26 | +1 sn |
+| 8 | Temel istatistiksel kavramlar | 1:35 | 226 | 22 | 204 | 1:34 | -1 sn |
+| 9 | Forest plot, funnel plot, yorum | 1:15 | 181 | 16 | 165 | 1:16 | +1 sn |
+| 10 | Üç yöntemin karşılaştırması | 1:25 | 200 | 20 | 180 | 1:23 | -2 sn |
 | 11 | Gerçek makale örnekleri | 1:10 | 168 | 16 | 152 | 1:10 | 0 sn |
-| 12 | Etik | 1:10 | 174 | 25 | 149 | 1:09 | -1 sn |
-| 13 | Hangi durumda hangi yöntem | 0:55 | 137 | 20 | 117 | 0:54 | -1 sn |
+| 12 | Etik | 1:10 | 179 | 25 | 154 | 1:11 | +1 sn |
+| 13 | Hangi durumda hangi yöntem | 0:55 | 141 | 24 | 117 | 0:54 | -1 sn |
 | 14 | Genel değerlendirme ve bilgi soruları | 0:40 | 93 | 8 | 85 | 0:39 | -1 sn |
 | 15 | Kaynakça | 0:00 | 0 | 0 | 0 | 0:00 | 0 sn |
-| | **Toplam** | **15:00** | **2130** | **185** | **1945** | **14:58** | |
+| | **Toplam** | **15:00** | **2153** | **205** | **1948** | **14:59** | |
 
-Hesap: sesli okunan kelime / 130 × 60. Toplam 1945 kelime = 897.7 sn, yani yaklaşık 14:58; 14:45 ile 15:00 aralığında, 15:00'ı aşmıyor. Her slayt taslak bütçeden en fazla ±2 sn sapıyor (izin verilen ±15 sn).
+Hesap: sesli okunan kelime / 130 × 60. Toplam 1948 kelime = 899,1 sn, yani yaklaşık 14:59; 14:45 ile 15:00 aralığında, 15:00'ı aşmıyor. Her slayt taslak bütçeden en fazla ±2 sn sapıyor (izin verilen ±15 sn).
 
-Okuma kuralı: konuşma metnindeki parantez içi atıflar (ör. "(Page ve ark., 2021)") sesli okunmaz; slaytta ve kaynakçada görünür. Kaynağın adı sözlü olarak geçmesi gereken yerlerde metne zaten yazıldı (ör. "Munn ve arkadaşlarına göre"). Soru turu ve slayt 14'teki soruların cevapları süreye dahil değildir.
+Okuma kuralı: konuşma metnindeki parantez içi atıflar (ör. "(Page ve ark., 2021)") sesli okunmaz; slaytta ve kaynakçada görünür. Kaynağın adı sözlü olarak geçmesi gereken yerlerde metne zaten yazıldı (ör. "Munn ve arkadaşlarına göre"). Atıflar sesli okunursa süre yaklaşık 16:34 olur ve 15:00 sınırı aşılır; bu yüzden kural bağlayıcıdır. Soru turu ve slayt 14'teki soruların cevapları süreye dahil değildir.
 
 ---
 
@@ -731,23 +731,23 @@ Karar şemasını bir soruyla başlatıyorum: araştırma sorum ne? Munn ve arka
 7. Dal-Ré, R., Bourgeois, F. T., Hemkens, L. G., Holm, S., Moher, D., & Naudet, F. (2026). Inconsistent ethics reporting in individual participant data meta-analyses: A call for updating PRISMA and PRISMA-IPD. *BMC Medicine, 24*, Article 556. https://doi.org/10.1186/s12916-026-05056-8
 8. Deeks, J. J., Higgins, J. P. T., Altman, D. G., McKenzie, J. E., Veroniki, A. A., & Simmonds, M. (Eds.). (2026). Chapter 10: Analysing data and undertaking meta-analyses. In J. P. T. Higgins, J. Thomas, J. Chandler, M. Cumpston, T. Li, M. J. Page, & V. A. Welch (Eds.), *Cochrane handbook for systematic reviews of interventions* (Version 6.5.1). Cochrane. 23 Kasım 2026 tarihinde https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-10 adresinden erişildi.
 9. Dinçer, S. (2018). Eğitim bilimleri araştırmalarında içerik analizi: Meta-analiz, meta-sentez, betimsel içerik analizi. *Bartın Üniversitesi Eğitim Fakültesi Dergisi, 7*(1), 176-190. https://doi.org/10.14686/buefad.363159
-9. Egger, M., Davey Smith, G., Schneider, M., & Minder, C. (1997). Bias in meta-analysis detected by a simple, graphical test. *BMJ, 315*(7109), 629-634. https://doi.org/10.1136/bmj.315.7109.629
-10. Higgins, J. P. T., Thompson, S. G., Deeks, J. J., & Altman, D. G. (2003). Measuring inconsistency in meta-analyses. *BMJ, 327*(7414), 557-560. https://doi.org/10.1136/bmj.327.7414.557
-11. İlgün Dibek, M., & Toptaş, B. (2023). Bütün parçaların toplamından daha fazladır: Eğitim bilimlerinde sistematik derleme nasıl yazılır? *Erzincan Üniversitesi Eğitim Fakültesi Dergisi, 25*(3), 538-550. https://doi.org/10.17556/erziefd.1176257
-12. IntHout, J., Ioannidis, J. P. A., Rovers, M. M., & Goeman, J. J. (2016). Plea for routinely presenting prediction intervals in meta-analysis. *BMJ Open, 6*(7), Article e010247. https://doi.org/10.1136/bmjopen-2015-010247
-13. Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for t-tests and ANOVAs. *Frontiers in Psychology, 4*, Article 863. https://doi.org/10.3389/fpsyg.2013.00863
-14. Liberati, A., Altman, D. G., Tetzlaff, J., Mulrow, C., Gøtzsche, P. C., Ioannidis, J. P. A., Clarke, M., Devereaux, P. J., Kleijnen, J., & Moher, D. (2009). The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: Explanation and elaboration. *PLoS Medicine, 6*(7), Article e1000100. https://doi.org/10.1371/journal.pmed.1000100
-15. Lin, L., Shi, L., Chu, H., & Murad, M. H. (2020). The magnitude of small-study effects in the Cochrane Database of Systematic Reviews: An empirical study of nearly 30 000 meta-analyses. *BMJ Evidence-Based Medicine, 25*(1), 27-32. https://doi.org/10.1136/bmjebm-2019-111191
-16. Moher, D., Shamseer, L., Clarke, M., Ghersi, D., Liberati, A., Petticrew, M., Shekelle, P., Stewart, L. A., & PRISMA-P Group. (2015). Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. *Systematic Reviews, 4*, Article 1. https://doi.org/10.1186/2046-4053-4-1
-17. Munn, Z., Peters, M. D. J., Stern, C., Tufanaru, C., McArthur, A., & Aromataris, E. (2018). Systematic review or scoping review? Guidance for authors when choosing between a systematic or scoping review approach. *BMC Medical Research Methodology, 18*, Article 143. https://doi.org/10.1186/s12874-018-0611-x
-18. Nalbant, S., & Kaya, D. (2025). Fiziksel aktivitenin akademik başarı üzerindeki etkisi: Sistematik bir derleme [The effect of physical activity on academic achievement: A systematic review]. *Beden Eğitimi ve Spor Araştırmaları Dergisi, 17*(1), 71-87. https://doi.org/10.55929/besad.1588870
-19. Özer, A., & Görgülü, Z. (2021). Bir bilimsel derlemenin planlanması ve yazımı. *Erzincan Üniversitesi Eğitim Fakültesi Dergisi, 23*(3), 698-713. https://doi.org/10.17556/erziefd.819971
-20. Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ, 372*, Article n71. https://doi.org/10.1136/bmj.n71
-21. PROSPERO. (t.y.). *Eligibility for inclusion and registration guidance*. Centre for Reviews and Dissemination, University of York. 23 Kasım 2026 tarihinde https://www.crd.york.ac.uk/PROSPERO/ adresinden erişildi.
-22. Rücker, G., Schwarzer, G., Carpenter, J. R., & Schumacher, M. (2008). Undue reliance on I² in assessing heterogeneity may mislead. *BMC Medical Research Methodology, 8*, Article 79. https://doi.org/10.1186/1471-2288-8-79
-23. Sadigursky, D., Braid, J. A., De Lira, D. N. L., Machado, B. A. B., Carneiro, R. J. F., & Colavolpe, P. O. (2017). The FIFA 11+ injury prevention program for soccer players: A systematic review. *BMC Sports Science, Medicine and Rehabilitation, 9*(1), Article 18. https://doi.org/10.1186/s13102-017-0083-z
-24. Sterne, J. A. C., Savović, J., Page, M. J., Elbers, R. G., Blencowe, N. S., Boutron, I., Cates, C. J., Cheng, H.-Y., Corbett, M. S., Eldridge, S. M., Emberson, J. R., Hernán, M. A., Hopewell, S., Hróbjartsson, A., Junqueira, D. R., Jüni, P., Kirkham, J. J., Lasserson, T., Li, T., ... Higgins, J. P. T. (2019). RoB 2: A revised tool for assessing risk of bias in randomised trials. *BMJ, 366*, Article l4898. https://doi.org/10.1136/bmj.l4898
-25. Whittemore, R., & Knafl, K. (2005). The integrative review: Updated methodology. *Journal of Advanced Nursing, 52*(5), 546-553. https://doi.org/10.1111/j.1365-2648.2005.03621.x
+10. Egger, M., Davey Smith, G., Schneider, M., & Minder, C. (1997). Bias in meta-analysis detected by a simple, graphical test. *BMJ, 315*(7109), 629-634. https://doi.org/10.1136/bmj.315.7109.629
+11. Higgins, J. P. T., Thompson, S. G., Deeks, J. J., & Altman, D. G. (2003). Measuring inconsistency in meta-analyses. *BMJ, 327*(7414), 557-560. https://doi.org/10.1136/bmj.327.7414.557
+12. İlgün Dibek, M., & Toptaş, B. (2023). Bütün parçaların toplamından daha fazladır: Eğitim bilimlerinde sistematik derleme nasıl yazılır? *Erzincan Üniversitesi Eğitim Fakültesi Dergisi, 25*(3), 538-550. https://doi.org/10.17556/erziefd.1176257
+13. IntHout, J., Ioannidis, J. P. A., Rovers, M. M., & Goeman, J. J. (2016). Plea for routinely presenting prediction intervals in meta-analysis. *BMJ Open, 6*(7), Article e010247. https://doi.org/10.1136/bmjopen-2015-010247
+14. Lakens, D. (2013). Calculating and reporting effect sizes to facilitate cumulative science: A practical primer for t-tests and ANOVAs. *Frontiers in Psychology, 4*, Article 863. https://doi.org/10.3389/fpsyg.2013.00863
+15. Liberati, A., Altman, D. G., Tetzlaff, J., Mulrow, C., Gøtzsche, P. C., Ioannidis, J. P. A., Clarke, M., Devereaux, P. J., Kleijnen, J., & Moher, D. (2009). The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate health care interventions: Explanation and elaboration. *PLoS Medicine, 6*(7), Article e1000100. https://doi.org/10.1371/journal.pmed.1000100
+16. Lin, L., Shi, L., Chu, H., & Murad, M. H. (2020). The magnitude of small-study effects in the Cochrane Database of Systematic Reviews: An empirical study of nearly 30 000 meta-analyses. *BMJ Evidence-Based Medicine, 25*(1), 27-32. https://doi.org/10.1136/bmjebm-2019-111191
+17. Moher, D., Shamseer, L., Clarke, M., Ghersi, D., Liberati, A., Petticrew, M., Shekelle, P., Stewart, L. A., & PRISMA-P Group. (2015). Preferred reporting items for systematic review and meta-analysis protocols (PRISMA-P) 2015 statement. *Systematic Reviews, 4*, Article 1. https://doi.org/10.1186/2046-4053-4-1
+18. Munn, Z., Peters, M. D. J., Stern, C., Tufanaru, C., McArthur, A., & Aromataris, E. (2018). Systematic review or scoping review? Guidance for authors when choosing between a systematic or scoping review approach. *BMC Medical Research Methodology, 18*, Article 143. https://doi.org/10.1186/s12874-018-0611-x
+19. Nalbant, S., & Kaya, D. (2025). Fiziksel aktivitenin akademik başarı üzerindeki etkisi: Sistematik bir derleme [The effect of physical activity on academic achievement: A systematic review]. *Beden Eğitimi ve Spor Araştırmaları Dergisi, 17*(1), 71-87. https://doi.org/10.55929/besad.1588870
+20. Özer, A., & Görgülü, Z. (2021). Bir bilimsel derlemenin planlanması ve yazımı. *Erzincan Üniversitesi Eğitim Fakültesi Dergisi, 23*(3), 698-713. https://doi.org/10.17556/erziefd.819971
+21. Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., ... Moher, D. (2021). The PRISMA 2020 statement: An updated guideline for reporting systematic reviews. *BMJ, 372*, Article n71. https://doi.org/10.1136/bmj.n71
+22. PROSPERO. (t.y.). *Eligibility for inclusion and registration guidance*. Centre for Reviews and Dissemination, University of York. 23 Kasım 2026 tarihinde https://www.crd.york.ac.uk/PROSPERO/ adresinden erişildi.
+23. Rücker, G., Schwarzer, G., Carpenter, J. R., & Schumacher, M. (2008). Undue reliance on I² in assessing heterogeneity may mislead. *BMC Medical Research Methodology, 8*, Article 79. https://doi.org/10.1186/1471-2288-8-79
+24. Sadigursky, D., Braid, J. A., De Lira, D. N. L., Machado, B. A. B., Carneiro, R. J. F., & Colavolpe, P. O. (2017). The FIFA 11+ injury prevention program for soccer players: A systematic review. *BMC Sports Science, Medicine and Rehabilitation, 9*(1), Article 18. https://doi.org/10.1186/s13102-017-0083-z
+25. Sterne, J. A. C., Savović, J., Page, M. J., Elbers, R. G., Blencowe, N. S., Boutron, I., Cates, C. J., Cheng, H.-Y., Corbett, M. S., Eldridge, S. M., Emberson, J. R., Hernán, M. A., Hopewell, S., Hróbjartsson, A., Junqueira, D. R., Jüni, P., Kirkham, J. J., Lasserson, T., Li, T., ... Higgins, J. P. T. (2019). RoB 2: A revised tool for assessing risk of bias in randomised trials. *BMJ, 366*, Article l4898. https://doi.org/10.1136/bmj.l4898
+26. Whittemore, R., & Knafl, K. (2005). The integrative review: Updated methodology. *Journal of Advanced Nursing, 52*(5), 546-553. https://doi.org/10.1111/j.1365-2648.2005.03621.x
 
 **Sunucu notu**
 
@@ -825,14 +825,14 @@ Karar şemasını bir soruyla başlatıyorum: araştırma sorum ne? Munn ve arka
 |---|---|---|
 | 1 · PRISMA raporlama kılavuzudur | Birebir alıntıyla; PRISMA-P ayrı uzantı olarak anıldı | 5, 6, 14 |
 | 2 · Meta-analiz teknik, zorunlu değil; SWiM | Şema ve tanım | 2, 7, 13, 14 |
-| 3 · Model seçimi varsayıma göre; rastgele etkiler heterojenliği açıklamaz | Konuşma ve yöntemsel dikkat | 8 |
-| 4 · I² oran; 25/50/75 kaba rehber; τ² ve tahmin aralığı | Higgins ve ark. (2003) "çekinceyle"; Cochrane aralıkları sayı olarak konmadı | 8, 9 |
+| 3 · Model seçimi varsayıma göre; rastgele etkiler heterojenliği açıklamaz | Konuşma ve yöntemsel dikkat; güncel El Kitabı birebir (Deeks ve ark., 2026) | 8 |
+| 4 · I² oran; 25/50/75 kaba rehber; τ² ve tahmin aralığı | Higgins ve ark. (2003) "çekinceyle"; Cochrane örtüşen aralıkları güncel metinden doğrulandı, yalnız notta (Deeks ve ark., 2026) | 8, 9 |
 | 5 · g küçük örneklem düzeltmeli d; 0,2/0,5/0,8 bağlamsız | Lakens (2013) aracılığıyla; Hopkins eşikleri yazılmadı | 8 |
-| 6 · Funnel asimetrisi ≠ yayın yanlılığı; asgari sayı doğrulanmadıysa yazılmaz | Lin ve ark. (2020); "en az 10" sayısı hiç yazılmadı | 9, 14 |
+| 6 · Funnel asimetrisi ≠ yayın yanlılığı; asgari sayı doğrulanmadıysa yazılmaz | Lin ve ark. (2020), "küçük çalışma etkisi" asimetrinin genel adı olarak; asgari sayı kaynakçada olmadığı için yazılmadı | 9, 14 |
 | 7 · Anlatı derlemesi kötü yöntem değil; SANRA | SANRA ve "arzu edilir" alıntısı | 2, 3, 10 |
 | 8 · Scoping haritalar, umbrella derlemelerin derlemesi, integrative karma | Tablo | 3 |
-| 9 · PROSPERO kapsamı resmi kaynaktan | m1'in resmi site okuması; OSF alternatifi | 12 |
-| 10 · Etik kurul koşullu | "Çoğu zaman gerekmez, kurum ve dergi kuralı belirler; IPD ve yayımlanmamış veri farklı" | 12 |
+| 9 · PROSPERO kapsamı resmi kaynaktan | m1 ve m6 (23 Kasım 2026) resmi site okuması; OSF alternatifi | 12 |
+| 10 · Etik kurul koşullu | "Çoğu zaman gerekmez, kurum ve dergi kuralı belirler; IPD ve yayımlanmamış veri farklı"; Dal-Ré ve ark. (2026) yalnız IPD bulgusu için anılır | 12 |
 
 ## Atıf ve kaynakça iki yönlü eşleşme listesi
 
@@ -847,25 +847,26 @@ Karar şemasını bir soruyla başlatıyorum: araştırma sorum ne? Munn ve arka
 | 5 | Bramer ve ark. (2017) | 6, 10 (not) |
 | 6 | Campbell ve ark. (2020) | 7, 10, 13, 14 (not) |
 | 7 | Dal-Ré ve ark. (2026) | 12 |
-| 8 | Dinçer (2018) | 7 |
-| 9 | Egger ve ark. (1997) | 7 (not), 9 |
-| 10 | Higgins ve ark. (2003) | 8, 9 (not) |
-| 11 | İlgün Dibek ve Toptaş (2023) | 12 |
-| 12 | IntHout ve ark. (2016) | 8, 9 |
-| 13 | Lakens (2013) | 8 |
-| 14 | Liberati ve ark. (2009) | 4 |
-| 15 | Lin ve ark. (2020) | 9, 10 (not), 14 (not) |
-| 16 | Moher ve ark. (2015) | 4, 5, 12 |
-| 17 | Munn ve ark. (2018) | 1, 2, 3, 4, 10, 13, 14, 15 (not) |
-| 18 | Nalbant ve Kaya (2025) | 5, 6, 11 |
-| 19 | Özer ve Görgülü (2021) | 3, 10 (not), 12 |
-| 20 | Page ve ark. (2021) | 1, 2, 4, 5, 6, 7, 10, 12, 13, 14 |
-| 21 | PROSPERO (t.y.) | 12 |
-| 22 | Rücker ve ark. (2008) | 8, 15 (not) |
-| 23 | Sadigursky ve ark. (2017) | 9, 11, 13 (not) |
-| 24 | Sterne ve ark. (2019) | 6 |
-| 25 | Whittemore ve Knafl (2005) | 3 |
+| 8 | Deeks ve ark. (2026) | 8, 15 (not) |
+| 9 | Dinçer (2018) | 7 |
+| 10 | Egger ve ark. (1997) | 7 (not), 9 |
+| 11 | Higgins ve ark. (2003) | 8, 9 (not) |
+| 12 | İlgün Dibek ve Toptaş (2023) | 12 |
+| 13 | IntHout ve ark. (2016) | 8, 9 |
+| 14 | Lakens (2013) | 8 |
+| 15 | Liberati ve ark. (2009) | 4 |
+| 16 | Lin ve ark. (2020) | 9, 10 (not), 14 (not) |
+| 17 | Moher ve ark. (2015) | 4, 5, 12 |
+| 18 | Munn ve ark. (2018) | 1, 2, 3, 4, 10, 13, 14 |
+| 19 | Nalbant ve Kaya (2025) | 5, 6, 11, 12 (not) |
+| 20 | Özer ve Görgülü (2021) | 3, 10 (not), 12, 13 |
+| 21 | Page ve ark. (2021) | 1, 2, 4, 5, 6, 7, 10, 12, 13, 14, 15 (not) |
+| 22 | PROSPERO (t.y.) | 12 |
+| 23 | Rücker ve ark. (2008) | 8 |
+| 24 | Sadigursky ve ark. (2017) | 9, 11, 13 (not) |
+| 25 | Sterne ve ark. (2019) | 6, 15 (not) |
+| 26 | Whittemore ve Knafl (2005) | 3 |
 
-Kullanılmayan kaynak yok: 25 kaynağın her biri en az bir slaytta anılıyor.
+Kullanılmayan kaynak yok: 26 kaynağın her biri en az bir slaytta anılıyor (m6 betikle denetledi).
 
-**Metin içi atıf → kaynakça:** Metinde geçen bütün yazar-yıl atıfları yukarıdaki 25 kaynaktan biridir. İki ikincil atıf vardır ve APA 7'ye göre yalnız aktaran kaynak kaynakçadadır: "Cohen (1988), akt. Lakens (2013)" ve "Cochrane El Kitabı 5.0.1, akt. Rücker ve ark. (2008)" (Slayt 8 kavram notu ve hoca sorarsa). Kaynakçada karşılığı olmayan atıf yoktur (betikle denetlendi: yazar adı ve yıl taraması).
+**Metin içi atıf → kaynakça:** Metinde geçen bütün yazar-yıl atıfları yukarıdaki 25 kaynaktan biridir. Tek ikincil atıf vardır ve APA 7'ye göre yalnız aktaran kaynak kaynakçadadır: "Cohen (1988), akt. Lakens (2013)" (Slayt 8 kavram notu). m5'teki "Cochrane El Kitabı 5.0.1, akt. Rücker ve ark. (2008)" atfı m6 tarafından güncel bölüm künyesiyle (Deeks ve ark., 2026) değiştirildi. Kaynakçada karşılığı olmayan atıf yoktur (betikle denetlendi: yazar adı ve yıl taraması).
