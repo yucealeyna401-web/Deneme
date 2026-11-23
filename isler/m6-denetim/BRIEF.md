@@ -28,3 +28,9 @@ Sen metni yazmamış, titiz bir hakemsin. Dinleyici bir dekan; tek bir uydurma k
 
 ## Bitince döndür
 Kaç kaynak doğrulandı/düzeltildi/çıkarıldı, kaç bilimsel ifade düzeltildi, son süre ve slayt sayısı, açık sorunlar.
+
+## Ana oturumdan ek notlar (dalga 2 sonrası)
+
+- **Cochrane El Kitabı artık erişilebilir** (training.cochrane.org → www.cochrane.org, 200). m5 El Kitabı'nı kaynakçaya almadı; model seçimi cümlesi 5.0.1 sürümünden ikincil atıfla (akt. Rücker ve ark., 2008) geliyor. Güncel sürümün ilgili bölümünü (bölüm 10) oku: cümle güncel sürümde de varsa, ikincil atıfı güncel bölüm künyesiyle değiştirmek daha savunulabilir (kaynak sayısı 26 olabilir). I² yorum aralıklarını da güncel metinden doğrula.
+- m5'in açık bıraktıkları (m5 SONUC.md): Barengo son yazar biçimi ("Correa Bautista, J. E."; yayıncı sayfasıyla karşılaştır) · Sterne ve ark. (2019) RoB 2 beş alanı (yalnız künye düzeyinde) · PROSPERO kapsamı (güncel site) · PRISMA akış şemasının Türkçe kutu metinleri.
+- **Okuma kuralı:** konuşma metnindeki parantez içi atıflar sesli okunmaz; kelime sayısını atıflar hariç say. Bu kural slaytlar-son.md'de süre tablosunun altında açıkça dursun.
